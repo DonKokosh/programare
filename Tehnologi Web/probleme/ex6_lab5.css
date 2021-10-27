@@ -1,0 +1,6 @@
+p[id] {
+    background-color: #d8d8d8;
+}
+*[id = "id2"][align = "center"] {
+    text-transform: uppercase;
+}

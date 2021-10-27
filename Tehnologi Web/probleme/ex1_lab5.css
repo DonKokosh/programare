@@ -1,0 +1,12 @@
+h1 {
+    font-weight: bold;
+    font-size: 12px;
+    font-family: helvetica;
+    font-variant: normal;
+    font-style: normal;
+    color: #ee3e80;
+}
+
+p.last {
+    color: #ee3e80;
+}

@@ -1,0 +1,36 @@
+h1, h2, h3 {
+    font-weight: normal;
+    color: #0088dd;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 250%;
+}
+
+h2 {
+    font-family: "Gill Sans", Arial, sans-serif;
+    font-size: 90%;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+}
+
+h3 {
+    font-size: 150%;
+}
+
+p.first :first-line {
+    font-weight: bolder;
+   
+}
+
+p.third {
+    font-style: italic;
+    text-align: right;
+
+}
+
+a :hover {
+    text-decoration: none;
+    
+}

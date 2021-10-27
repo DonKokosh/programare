@@ -1,0 +1,12 @@
+*.c1 {
+    color: #ee3e80 ;} /*Acest selector corespunde paragrafului 1 si titlului 1*/
+p.c2{
+    font-style: italic;} /*Acest selector corespunde doar paragrafului 2*/
+*.c2.c3{
+    background-color: rgb(200,200,200);} /*Acest selector corespunde blocului de diviziune 2 si legaturii*/
+div.c2.c3.c6{
+    text-transform: uppercase;} /*Acest selector corespunde doar blocului de diviziune 2*/
+h1.c0.c1 {
+    text-decoration: underline;
+    font-style: normal;
+}

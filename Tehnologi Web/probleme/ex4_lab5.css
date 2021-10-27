@@ -1,0 +1,12 @@
+i.i1 {
+   color: #ee3e80; 
+}
+p * i {
+    text-transform: uppercase;
+}
+b.b1 {
+    text-transform: uppercase;
+}
+b.b2 {
+    background-color: rgb(70, 170, 70);
+}

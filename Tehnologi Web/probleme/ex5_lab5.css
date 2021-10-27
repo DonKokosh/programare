@@ -1,0 +1,14 @@
+body>p {
+    color: rgb(0, 139, 139);
+    text-indent: 15px;
+}
+body>p>i {
+    text-transform: uppercase;
+    color: rgb(70, 170, 70);
+    letter-spacing: 1em;
+}
+body>p>i>b {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(170, 50, 20);
+    letter-spacing: 0.3em;
+}

@@ -1,0 +1,15 @@
+#id1 {
+    color: rgb(red, green, blue);
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+
+#id2 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+#id3 {
+    color: rgba(red, green, blue, alpha);
+    text-decoration: underline;
+}
